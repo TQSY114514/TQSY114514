@@ -6,7 +6,7 @@
 
 [![Website](https://img.shields.io/badge/Website-tqsy.pages.dev-FF5722?style=for-the-badge)](https://tqsy.pages.dev)
 
-<img src="https://count.getloli.com/@TQSY?name=TQSY&theme=rule34&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt="Profile Views" />
+[![Total Stars](https://img.shields.io/static/v1?label=Total%20Stars&message=0&color=yellow&style=for-the-badge&logo=star)](https://github.com/TQSY114514)
 
 </div>
 
