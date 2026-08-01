@@ -6,7 +6,7 @@
 
 [![Website](https://img.shields.io/badge/Website-tqsy.pages.dev-FF5722?style=for-the-badge)](https://tqsy.pages.dev)
 
-[![Total Stars](https://img.shields.io/static/v1?label=Total%20Stars&message=0&color=yellow&style=for-the-badge&logo=star)](https://github.com/TQSY114514)
+[![Total Stars](https://img.shields.io/endpoint?url=https://tqsy.tqishengyan.workers.dev)](https://github.com/TQSY114514)
 
 </div>
 
