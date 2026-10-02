@@ -4,6 +4,8 @@
 
 AI 工具重度用户；缺什么，就自己造。
 
+写代码之外，还会弹钢琴。
+
 本地优先的 AI 工具 · 桌面 Agent · 周边插件
 
 <sub>Local-first AI tooling — desktop agents, plugins, and the glue around them.</sub>
