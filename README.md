@@ -12,11 +12,11 @@
 
 ## 在做的
 
-**[Aether](https://github.com/TQSY114514/Aether)** — 本地优先的多模型 Agent 桌面工作台。并发把同一个任务丢给多个模型做盲评，按本地 ELO 排序；6 轴权限沙箱（读 / 写 / 执行 / 网络 / Git / 外部）带 diff 预览；记忆存进 SQLite 知识图谱。Electron + React/TypeScript。
+**[Aether](https://github.com/TQSY114514/Aether)** — 本地优先的多模型 Agent 桌面工作台：同一个任务并发发给多个模型作答，再盲评投票、维护本地 ELO 排行；六轴权限沙箱（读 / 写 / 执行 / 网络 / Git / 外部）带 diff 预览；记忆沉淀为 SQLite 知识图谱。Electron + React/TypeScript。
 
-**[dsh-ui-appearance](https://github.com/TQSY114514/dsh-ui-appearance)** — DeepSeek Harness 的外观定制插件：配色、背景图、透明度、毛玻璃强度都能单独调，走官方主题扩展点实现，零核心代码改动。
+**[dsh-ui-appearance](https://github.com/TQSY114514/dsh-ui-appearance)** — DeepSeek Harness 的外观定制插件：主题配色、图片 / 视频背景、透明度与毛玻璃强度逐项可调；基于官方主题扩展点实现，零核心代码改动，卸载后界面完整恢复默认。
 
-**[baidu-search-plugin](https://github.com/TQSY114514/baidu-search-plugin)** — 给 OpenClaw 的 `web_search` 接上百度千帆 AI 搜索，返回带发布时间和站点名的结构化结果。
+**[baidu-search-plugin](https://github.com/TQSY114514/baidu-search-plugin)** — 给 OpenClaw 的 `web_search` 接入百度千帆 AI 搜索，返回带发布时间和站点名的结构化结果。
 
 <p align="center">
   <picture>
