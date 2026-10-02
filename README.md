@@ -24,11 +24,11 @@ AI 工具重度用户；缺什么，就自己造。
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-one-bice.vercel.app/api?username=TQSY114514&role=OWNER%2CORGANIZATION_MEMBER&show_icons=true&count_private=true&hide_border=true&bg_color=0A0D2B&title_color=DCE3FF&text_color=9AA6D4&icon_color=6E7FD6">
-    <img src="https://github-readme-stats-one-bice.vercel.app/api?username=TQSY114514&role=OWNER%2CORGANIZATION_MEMBER&show_icons=true&count_private=true&hide_border=true&bg_color=F7F8FA&title_color=080a44&text_color=303f64&icon_color=080a44" height="165" alt="TQSY's GitHub Stats" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-one-bice.vercel.app/api?username=TQSY114514&role=OWNER%2CORGANIZATION_MEMBER&show_icons=true&count_private=true&bg_color=0A0D2B&title_color=DCE3FF&text_color=9AA6D4&icon_color=6E7FD6&border_radius=12&ring_color=9b59b6&border_color=2A3560">
+    <img src="https://github-readme-stats-one-bice.vercel.app/api?username=TQSY114514&role=OWNER%2CORGANIZATION_MEMBER&show_icons=true&count_private=true&bg_color=F7F8FA&title_color=080a44&text_color=303f64&icon_color=080a44&border_radius=12&ring_color=9b59b6" height="165" alt="TQSY's GitHub Stats" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=TQSY114514&layout=compact&langs_count=5&count_private=true&hide_border=true&bg_color=0A0D2B&title_color=DCE3FF&text_color=9AA6D4">
-    <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=TQSY114514&layout=compact&langs_count=5&count_private=true&hide_border=true&bg_color=F7F8FA&title_color=080a44&text_color=303f64" height="165" alt="Most Used Languages" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=TQSY114514&layout=compact&langs_count=5&count_private=true&bg_color=0A0D2B&title_color=DCE3FF&text_color=9AA6D4&border_radius=12&border_color=2A3560">
+    <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=TQSY114514&layout=compact&langs_count=5&count_private=true&bg_color=F7F8FA&title_color=080a44&text_color=303f64&border_radius=12" height="165" alt="Most Used Languages" />
   </picture>
 </p>
