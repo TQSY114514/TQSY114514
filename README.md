@@ -2,21 +2,21 @@
 
 # TQSY
 
-本地优先的 AI 工具 · 桌面 Agent 与周边插件
+本地优先的 AI 工具 · 桌面 Agent · 周边插件
 
 <sub>Local-first AI tooling — desktop agents, plugins, and the glue around them.</sub>
 
 [tqsy.pages.dev](https://tqsy.pages.dev)
 
-<img src="https://count.getloli.com/@TQSY?name=TQSY&theme=rule34&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt="Profile Views" />
-
 </div>
 
-## 项目
+## 在做的
 
-- **[Aether](https://github.com/TQSY114514/Aether)** — 本地优先的多模型 Agent 桌面工作台，内置模型竞技场与结构化记忆图谱。
-- **[dsh-ui-appearance](https://github.com/TQSY114514/dsh-ui-appearance)** — DeepSeek Harness 外观定制插件：主题配色、背景图、透明度与毛玻璃效果。
-- **[Memora](https://github.com/TQSY114514/Memora)** — 本地优先的 AI 记忆工作台，MCP + 30 个工具 + 端到端加密。*已停止维护。*
+**[Aether](https://github.com/TQSY114514/Aether)** — 本地优先的多模型 Agent 桌面工作台。并发把同一个任务丢给多个模型做盲评，按本地 ELO 排序；6 轴权限沙箱（读 / 写 / 执行 / 网络 / Git / 外部）带 diff 预览；记忆存进 SQLite 知识图谱。Electron + React/TypeScript。
+
+**[dsh-ui-appearance](https://github.com/TQSY114514/dsh-ui-appearance)** — DeepSeek Harness 的外观定制插件：配色、背景图、透明度、毛玻璃强度都能单独调，走官方主题扩展点实现，零核心代码改动。
+
+**[baidu-search-plugin](https://github.com/TQSY114514/baidu-search-plugin)** — 给 OpenClaw 的 `web_search` 接上百度千帆 AI 搜索，返回带发布时间和站点名的结构化结果。
 
 <p align="center">
   <picture>
@@ -34,4 +34,6 @@
 
 ---
 
-开学期间时间比较紧，仓库维护、Issue 和 PR 的处理可能没那么及时，见谅。
+写代码之外：ACG 和竞赛编程。
+
+开学期间时间比较紧，仓库维护、Issue 和 PR 的响应会慢一些，见谅。
