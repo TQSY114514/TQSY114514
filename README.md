@@ -4,23 +4,17 @@
 
 AI 工具重度用户；缺什么，就自己造。
 
-写代码之外，还会弹钢琴。
-
-本地优先的 AI 工具 · 桌面 Agent · 周边插件
-
 <sub>Local-first AI tooling — desktop agents, plugins, and the glue around them.</sub>
 
 [tqsy.pages.dev](https://tqsy.pages.dev)
 
 </div>
 
-## 在做的
+## 项目
 
-**[Aether](https://github.com/TQSY114514/Aether)** — 本地优先的多模型 Agent 桌面工作台：同一个任务并发发给多个模型作答，再盲评投票、维护本地 ELO 排行；六轴权限沙箱（读 / 写 / 执行 / 网络 / Git / 外部）带 diff 预览；记忆沉淀为 SQLite 知识图谱。Electron + React/TypeScript。
+**[Aether](https://github.com/TQSY114514/Aether)** — 本地优先的多模型 Agent 桌面工作台：同一个任务并发交给 2–4 个模型作答，盲评投票、按任务类型（编程 / 推理 / 写作）各算本地 ELO；四档运行模式（Plan / Ask / Auto / Yolo）叠加六轴权限与行内 diff 预审；会话、密钥、记忆图谱全部落在本地 SQLite，零遥测。Electron + React/TypeScript。
 
-**[dsh-ui-appearance](https://github.com/TQSY114514/dsh-ui-appearance)** — DeepSeek Harness 的外观定制插件：主题配色、图片 / 视频背景、透明度与毛玻璃强度逐项可调；基于官方主题扩展点实现，零核心代码改动，卸载后界面完整恢复默认。
-
-**[baidu-search-plugin](https://github.com/TQSY114514/baidu-search-plugin)** — 给 OpenClaw 的 `web_search` 接入百度千帆 AI 搜索，返回带发布时间和站点名的结构化结果。
+**[dsh-ui-appearance](https://github.com/TQSY114514/dsh-ui-appearance)** — DeepSeek Harness 的外观定制插件：浅色 / 深色各存一套 6 色调色盘，面板、侧边栏、输入框、设置弹窗、代码块的不透明度彼此独立，毛玻璃与背景模糊分开控制，另支持图片 / 视频背景与配色 JSON 分享。纯官方扩展点实现，零核心代码改动，卸载后界面逐像素恢复默认。
 
 <p align="center">
   <picture>
@@ -32,3 +26,5 @@ AI 工具重度用户；缺什么，就自己造。
     <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=TQSY114514&layout=compact&langs_count=5&count_private=true&bg_color=F7F8FA&title_color=080a44&text_color=303f64&border_radius=12" height="165" alt="Most Used Languages" />
   </picture>
 </p>
+
+<p align="center"><sub>写代码之外，还会弹钢琴。</sub></p>
