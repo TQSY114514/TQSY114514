@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="assets/header.svg" width="840" alt="TQSY">
-
 AI 工具重度用户；缺什么，就自己造。<br>
 初三学生。写代码之外，还会弹钢琴。
 
