@@ -2,7 +2,8 @@
 
 # TQSY
 
-AI 工具重度用户；缺什么，就自己造。
+AI 工具重度用户；缺什么，就自己造。<br>
+写代码之外，还会弹钢琴。
 
 <sub>Local-first AI tooling — desktop agents, plugins, and the glue around them.</sub>
 
@@ -27,4 +28,3 @@ AI 工具重度用户；缺什么，就自己造。
   </picture>
 </p>
 
-<p align="center"><sub>写代码之外，还会弹钢琴。</sub></p>
